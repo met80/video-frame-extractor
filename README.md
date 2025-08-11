@@ -1,2 +1,15 @@
-# video-frame-extractor
-video-frame-extractor is a lightweight and easy-to-use Python tool designed to extract frames from video files and save them as individual images with precise timestamps embedded in their filenames. This utility supports saving every Nth frame, allowing flexible control over frame extraction frequency. 
+# 🎥 Video Frame Extractor
+
+A Python tool to extract frames from a video and save them with their timestamps in the filename.
+
+## 📌 Features
+- Extract frames from any video file
+- Save every `N`th frame (configurable)
+- Filename includes exact timestamp in seconds and milliseconds
+- Simple command-line interface
+
+## 🚀 Installation
+```bash
+git clone https://github.com/USERNAME/video-frame-extractor.git
+cd video-frame-extractor
+pip install -r requirements.txt
