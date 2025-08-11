@@ -1,6 +1,8 @@
 # 🎥 Video Frame Extractor
 
 A Python tool to extract frames from a video and save them with their timestamps in the filename.
+Python 3.7+
+OpenCV (cv2)
 
 ## 📌 Features
 - Extract frames from any video file
@@ -12,4 +14,4 @@ A Python tool to extract frames from a video and save them with their timestamps
 ```bash
 git clone https://github.com/USERNAME/video-frame-extractor.git
 cd video-frame-extractor
-pip install -r requirements.txt
+pip install OpenCV
